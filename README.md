@@ -6,7 +6,9 @@
 
 *Passionate about bridging the gap between theoretical Deep Learning and scalable MLOps.*
 
-[LinkedIn](https://www.linkedin.com/in/rohit-ranjan-kumar-b6937120a/) • [Email](mailto:ranjanrohit908@gmail.com • [Kaggle](https://www.kaggle.com/rohit1x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-ranjan-kumar-b6937120a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjanrohit908@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rohit1x)
 
 ---
 
@@ -71,8 +73,12 @@ I'm currently exploring **MLOps**, **LLMOps**, and **AIOps**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" alt="Rohit's Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+<a href="https://github.com/Rohit1x52">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohit1x52&show_icons=true&theme=radical&count_private=true" alt="Rohit's Stats" height="180"/>
+</a>
+<a href="https://github.com/Rohit1x52">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit1x52&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</a>
 
 </div>
 
