@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Rohit Ranjan Kumar 👋
+# Hi, I'm Rohit Ranjan Kumar 👋
 
 ### Aspiring AIML Engineer | Gen AI & Agentic Systems Researcher
 
@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-ranjan-kumar-b6937120a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjanrohit908@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rohit1x)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rohitx52/)
 ---
 
 </div>
