@@ -79,12 +79,8 @@ I'm currently exploring **MLOps**, **LLMOps**, and **AIOps**.
 
 <div align="center">
 
-<a href="https://github.com/Rohit1x52">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohit1x52&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=1800" alt="Rohit's Stats" height="180"/>
-</a>
-<a href="https://github.com/Rohit1x52">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit1x52&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="180"/>
-</a>
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit1x52&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit1x52&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
