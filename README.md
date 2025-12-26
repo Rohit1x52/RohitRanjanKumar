@@ -39,12 +39,15 @@ I'm currently exploring **MLOps**, **LLMOps**, and **AIOps**.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
 
 #### ⚙️ Agentic AI & Tools
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-303030?style=for-the-badge)
 ![LangFlow](https://img.shields.io/badge/LangFlow-4B0082?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-00ADD8?style=for-the-badge&logo=protocol&logoColor=white)
 
 #### 💻 Languages & Core CS
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
