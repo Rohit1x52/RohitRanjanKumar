@@ -80,8 +80,9 @@ I'm currently exploring **MLOps**, **LLMOps**, and **AIOps**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rohit1x52&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rohit's GitHub Stats" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohit1x52&theme=radical&hide_border=true)](https://github.com/Rohit1x52)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit1x52&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rohit1x52&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit1x52&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 </div>
