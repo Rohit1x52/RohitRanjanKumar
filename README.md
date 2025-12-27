@@ -61,6 +61,7 @@ I'm currently exploring **MLOps**, **LLMOps**, and **AIOps**.
 ![OOPS](https://img.shields.io/badge/OOPS-Concept-blue?style=for-the-badge)
 
 #### ☁️ MLOps & Cloud
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -82,7 +83,7 @@ I'm currently exploring **MLOps**, **LLMOps**, and **AIOps**.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohit1x52&theme=radical&hide_border=true)](https://github.com/Rohit1x52)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rohit1x52&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit1x52&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+[![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit1x52&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Rohit1x52)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit1x52&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/Rohit1x52)
 
 </div>
