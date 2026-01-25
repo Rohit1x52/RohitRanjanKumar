@@ -3,10 +3,10 @@
 # 👋 Hi, I'm Rohit Ranjan Kumar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Aspiring+AIML+Engineer;Gen+AI+%26+Agentic+Systems+Researcher;Building+Autonomous+AI+Agents;Meta-Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=AIML+Engineer+%26+Developer;Agentic+AI+Systems+Developer;DSA+Problem+Solver+(C%2B%2B);Building+Intelligent+AI+Solutions" alt="Typing SVG" />
 </div>
 
-### 🚀 *Building the next generation of autonomous agents and scalable learning systems*
+### 🚀 *Building intelligent AI systems and solving complex problems with code*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-ranjan-kumar-b6937120a/">
@@ -36,10 +36,10 @@ class AIEngineer:
         self.role = "AIML Engineer & Software Developer"
         self.education = "B.Tech in computer Science (3rd Year)"
         self.current_focus = [
-            "Agentic AI Workflows", 
-            "Meta-Learning Frameworks",
+            "Agentic AI Development", 
             "LLMOps & MLOps",
-            "DSA(C++)"
+            "DSA & Algorithms (C++)",
+            "Scalable AI Systems"
         ]
         self.languages = ["Python", "C++", "Java", "SQL"]
         
@@ -52,11 +52,11 @@ me.say_hi()
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 🔬 Research Interests
-- **Autonomous Agent Systems** - Designing self-improving AI agents using LangChain & LangGraph
-- **Meta-Learning** - Exploring algorithms that learn to learn
-- **AutoML Pipelines** - Building intelligent model selection and hyperparameter optimization systems
-- **Retrieval-Augmented Generation** - Enhancing LLMs with external knowledge bases
+### � Development Focus
+- **Autonomous Agent Systems** - Building production-ready AI agents using LangChain & LangGraph
+- **LLMOps & MLOps** - Deploying and scaling AI/ML systems in production
+- **Data Structures & Algorithms** - Solving complex problems efficiently with C++
+- **Intelligent Automation** - Creating AutoML pipelines and RAG-based applications
 
 ### 🌱 Current Learning Path
 - Advanced MLOps & LLMOps practices
