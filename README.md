@@ -29,25 +29,38 @@
 
 ## 🎯 About Me
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Rohit Ranjan Kumar"
-        self.role = "AIML Engineer & Software Developer"
-        self.education = "B.Tech in computer Science (3rd Year)"
-        self.current_focus = [
-            "Agentic AI Development", 
-            "LLMOps & MLOps",
-            "DSA & Algorithms (C++)",
-            "Scalable AI Systems"
-        ]
-        self.languages = ["Python", "C++", "Java", "SQL"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+```cpp
+#include <bits/stdc++.h>
 
-me = AIEngineer()
-me.say_hi()
+using namespace std;
+
+class AIEngineer {
+private:
+    string name;
+    string role;
+    string education;
+    vector<string> current_focus;
+    vector<string> languages;
+
+public:
+    AIEngineer() 
+        : name("Rohit Ranjan Kumar"),
+          role("AIML Engineer & Software Developer"),
+          education("B.Tech in Computer Science (3rd Year)"),
+          current_focus{"Agentic AI Development","ML Models", "LLMOps & MLOps", 
+                       "DSA & Algorithms (C++)", "Scalable AI Systems"},
+          languages{"Python", "C++", "Java", "SQL"} {}
+    
+    void sayHi() const {
+        std::cout << "Thanks for dropping by! Let's build something amazing together." << std::endl;
+    }
+};
+
+int main() {
+    AIEngineer me;
+    me.sayHi();
+    return 0;
+}
 ```
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
