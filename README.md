@@ -241,9 +241,23 @@ Stay tuned! 🚀
 
 ## 🎓 Competitive Programming & Problem Solving
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Rohitx52?theme=dark&font=Ubuntu&ext=activity" alt="LeetCode Stats"/>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏆_DSA_Enthusiast-C++_Problem_Solver-00599C?style=for-the-badge&labelColor=1a1a2e" />
+
+<br><br>
+
+<a href="https://leetcode.com/u/Rohitx52/">
+  <img src="https://leetcard.jacoblin.cool/Rohitx52?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" width="500"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Focus-Algorithms_&_Data_Structures-3B82F6?style=flat-square&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Goal-Consistent_Problem_Solving-FFA116?style=flat-square&logo=target&logoColor=white" />
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
