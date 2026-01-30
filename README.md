@@ -146,6 +146,69 @@ int main() {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📜 Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/🎓-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+
+### Machine Learning
+**Stanford Online | Coursera**
+
+<img src="https://img.shields.io/badge/✓_Verified-00C853?style=flat-square" />
+
+<sub>Supervised Learning • Regression • Classification • ML Best Practices</sub>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/🎓-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+
+### Neural Networks
+**Coursera**
+
+<img src="https://img.shields.io/badge/✓_Verified-00C853?style=flat-square" />
+
+<sub>Deep Learning • CNNs • Backpropagation • Optimization</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/🎓-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+
+### Generative AI
+**Udemy**
+
+<img src="https://img.shields.io/badge/✓_Verified-00C853?style=flat-square" />
+
+<sub>LLMs • Prompt Engineering • Gen AI Applications</sub>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/🎓-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+
+### Agentic AI
+**Udemy**
+
+<img src="https://img.shields.io/badge/✓_Verified-00C853?style=flat-square" />
+
+<sub>AI Agents • LangChain • LangGraph • Autonomous Systems</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🏆 Featured Projects
 
 <div align="center">
