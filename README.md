@@ -150,56 +150,83 @@ int main() {
 
 <div align="center">
 
+<!-- Row 1: Coursera Certificates -->
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 <img src="https://img.shields.io/badge/🎓-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
 
-### Machine Learning
-**Stanford Online | Coursera**
+### AI: An Overview
+**Politecnico di Milano**
 
-<img src="https://img.shields.io/badge/✓_Verified-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/Oct_2025-00C853?style=flat-square" />
 
-<sub>Supervised Learning • Regression • Classification • ML Best Practices</sub>
+<sub>AI Fundamentals • ML Concepts • Applications</sub>
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🎓-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/🎓-Microsoft-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
 
-### Neural Networks
-**Coursera**
+### Foundations of AI & ML
+**Microsoft | Coursera**
 
-<img src="https://img.shields.io/badge/✓_Verified-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/Nov_2025-00C853?style=flat-square" />
 
-<sub>Deep Learning • CNNs • Backpropagation • Optimization</sub>
+<sub>AI Foundations • Machine Learning • Azure AI</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/🎓-DeepLearning.AI-FF6F61?style=for-the-badge&logoColor=white" />
+
+### Neural Networks & Deep Learning
+**DeepLearning.AI | Coursera**
+
+<img src="https://img.shields.io/badge/Nov_2025-00C853?style=flat-square" />
+
+<sub>Neural Networks • Forward/Backprop • Optimization</sub>
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🎓-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+<img src="https://img.shields.io/badge/🎓-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
 
-### Generative AI
-**Udemy**
+### Deep Learning with Keras
+**IBM | Coursera**
 
-<img src="https://img.shields.io/badge/✓_Verified-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/Nov_2025-00C853?style=flat-square" />
 
-<sub>LLMs • Prompt Engineering • Gen AI Applications</sub>
+<sub>Keras • TensorFlow • CNNs • Model Building</sub>
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 <img src="https://img.shields.io/badge/🎓-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
 
-### Agentic AI
-**Udemy**
+### Complete Generative AI
+**Krish Naik | Udemy**
 
-<img src="https://img.shields.io/badge/✓_Verified-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/54_Hours-FFA116?style=flat-square" />
+<img src="https://img.shields.io/badge/Jun_2025-00C853?style=flat-square" />
 
-<sub>AI Agents • LangChain • LangGraph • Autonomous Systems</sub>
+<sub>LangChain • HuggingFace • LLMs • RAG</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/🎓-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+
+### Complete Agentic AI Bootcamp
+**Krish Naik | Udemy**
+
+<img src="https://img.shields.io/badge/36_Hours-FFA116?style=flat-square" />
+<img src="https://img.shields.io/badge/Jul_2025-00C853?style=flat-square" />
+
+<sub>LangGraph • LangChain • AI Agents • Automation</sub>
 
 </td>
 </tr>
