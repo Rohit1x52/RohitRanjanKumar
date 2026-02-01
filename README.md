@@ -150,61 +150,76 @@ int main() {
 
 <div align="center">
 
+> 🏅 *Click on any certificate to view the full credential*
+
 <!-- Row 1: Coursera Certificates -->
 <table>
 <tr>
 <td align="center" width="33%">
 
+<a href="./certificates/AIML2_Certificate.pdf" target="_blank">
 <img src="https://img.shields.io/badge/🎓-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
 
 ### AI: An Overview
 **Politecnico di Milano**
 
 <img src="https://img.shields.io/badge/Oct_2025-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/📄_View_Certificate-FF6B6B?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
 
 <sub>AI Fundamentals • ML Concepts • Applications</sub>
+</a>
 
 </td>
 <td align="center" width="33%">
 
+<a href="./certificates/AIML_Certificate.pdf" target="_blank">
 <img src="https://img.shields.io/badge/🎓-Microsoft-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 ### Foundations of AI & ML
 **Microsoft | Coursera**
 
 <img src="https://img.shields.io/badge/Nov_2025-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/📄_View_Certificate-FF6B6B?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
 
 <sub>AI Foundations • Machine Learning • Azure AI</sub>
+</a>
 
 </td>
 <td align="center" width="33%">
 
+<a href="./certificates/DeepLearning1.pdf" target="_blank">
 <img src="https://img.shields.io/badge/🎓-DeepLearning.AI-FF6F61?style=for-the-badge&logoColor=white" />
 
 ### Neural Networks & Deep Learning
 **DeepLearning.AI | Coursera**
 
 <img src="https://img.shields.io/badge/Nov_2025-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/📄_View_Certificate-FF6B6B?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
 
 <sub>Neural Networks • Forward/Backprop • Optimization</sub>
+</a>
 
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
 
+<a href="./certificates/DeepLearning2.pdf" target="_blank">
 <img src="https://img.shields.io/badge/🎓-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
 
 ### Deep Learning with Keras
 **IBM | Coursera**
 
 <img src="https://img.shields.io/badge/Nov_2025-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/📄_View_Certificate-FF6B6B?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
 
 <sub>Keras • TensorFlow • CNNs • Model Building</sub>
+</a>
 
 </td>
 <td align="center" width="33%">
 
+<a href="./certificates/Gen AI Certificate.pdf" target="_blank">
 <img src="https://img.shields.io/badge/🎓-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
 
 ### Complete Generative AI
@@ -212,12 +227,15 @@ int main() {
 
 <img src="https://img.shields.io/badge/54_Hours-FFA116?style=flat-square" />
 <img src="https://img.shields.io/badge/Jun_2025-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/📄_View_Certificate-FF6B6B?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
 
 <sub>LangChain • HuggingFace • LLMs • RAG</sub>
+</a>
 
 </td>
 <td align="center" width="33%">
 
+<a href="./certificates/Agentic AI Certificate.pdf" target="_blank">
 <img src="https://img.shields.io/badge/🎓-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
 
 ### Complete Agentic AI Bootcamp
@@ -225,8 +243,10 @@ int main() {
 
 <img src="https://img.shields.io/badge/36_Hours-FFA116?style=flat-square" />
 <img src="https://img.shields.io/badge/Jul_2025-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/📄_View_Certificate-FF6B6B?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
 
 <sub>LangGraph • LangChain • AI Agents • Automation</sub>
+</a>
 
 </td>
 </tr>
