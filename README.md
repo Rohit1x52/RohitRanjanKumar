@@ -240,114 +240,227 @@ int main() {
 
 <div align="center">
 
-> 💡 *Turning complex ideas into intelligent solutions*
+<img src="https://img.shields.io/badge/💡_Turning_Complex_Ideas_Into_Intelligent_Solutions-0D1117?style=for-the-badge" />
 
 </div>
 
+<br>
+
 <!-- Project 1: AI That Invents AI -->
-<a href="https://github.com/Rohit1x52/AI_That_Invents_AI">
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohit1x52&repo=AI_That_Invents_AI&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=3B82F6" />
-</a>
-
-### 🤖 AI That Invents AI
-
-<img src="https://img.shields.io/badge/Status-Active-00C853?style=flat-square&logo=statuspage&logoColor=white" />
-<img src="https://img.shields.io/badge/Type-Meta_Learning-FF6B6B?style=flat-square" />
-
-**An advanced meta-learning framework exploring self-improving algorithms**
-
-```
-🧬 Automated Neural Architecture Search
-⚡ Self-Improving Optimization Algorithms  
-🎯 Dynamic Hyperparameter Tuning
-📈 Scalable AutoML Pipelines
-```
-
-<img src="https://img.shields.io/badge/Gen_AI-blueviolet?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/AutoML-FF6F00?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-
-<br clear="right"/>
-
----
-
-<!-- Project 2: Orbital Witness -->
-<a href="https://github.com/Rohit1x52/ORBITAL_WITNESS">
-<img align="left" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohit1x52&repo=ORBITAL_WITNESS&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=3B82F6" />
-</a>
-
-### 🛰️ Orbital Witness
-
-<img src="https://img.shields.io/badge/Status-Active-00C853?style=flat-square&logo=statuspage&logoColor=white" />
-<img src="https://img.shields.io/badge/Type-Computer_Vision-00D9FF?style=flat-square" />
-
-**Geospatial intelligence using satellite imagery analysis**
-
-```
-🌍 Real-time Object Detection from Satellites
-🗺️ Terrain Classification Algorithms
-📊 Change Detection Over Time
-🔬 Multi-spectral Image Processing
-```
-
-<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-
-<br clear="left"/>
-
----
-
-<!-- Project 3: Breast Cancer Classifier -->
-<a href="https://github.com/Rohit1x52/Breast-Cancer-Detection-using-DenseNet-121">
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohit1x52&repo=Breast-Cancer-Detection-using-DenseNet-121&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=3B82F6" />
-</a>
-
-### 🩺 Breast Cancer Classifier
-
-<img src="https://img.shields.io/badge/Status-Completed-00E676?style=flat-square&logo=statuspage&logoColor=white" />
-<img src="https://img.shields.io/badge/Accuracy-98%25+-00E676?style=flat-square" />
-
-**High-precision medical diagnosis using DenseNet-121**
-
-```
-🎯 98%+ Accuracy on Mammogram Classification
-🔄 Transfer Learning Implementation
-🏥 Medical Imaging Preprocessing Pipeline
-🔍 Model Interpretability with Grad-CAM
-```
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/DenseNet-FF6F00?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Medical_AI-D00000?style=for-the-badge&logoColor=white" />
-
-<br clear="right"/>
-
----
-
-<!-- Coming Soon Section -->
 <div align="center">
 
-### 🚀 What's Cooking...
+<a href="https://github.com/Rohit1x52/AI_That_Invents_AI">
+<img src="https://svg-banners.vercel.app/api?type=luminance&text1=🤖%20AI%20That%20Invents%20AI&width=800&height=100" />
+</a>
+
+</div>
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🤖-Multi_Agent_System-blueviolet?style=for-the-badge" /><br>
-<sub><b>Multi-Agent Orchestration</b></sub>
+<td width="60%">
+
+### Meta-Learning Framework for Self-Improving AI
+
+<img src="https://img.shields.io/badge/🔥_Status-Active_Development-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⭐_Type-Meta_Learning-FF6B6B?style=for-the-badge" />
+
+> *"An AI that designs better AI architectures autonomously"*
+
+**🎯 Key Features:**
+| Feature | Description |
+|---------|-------------|
+| 🧬 **Neural Architecture Search** | Automated discovery of optimal network structures |
+| ⚡ **Self-Optimization** | Algorithms that improve themselves over time |
+| 🎛️ **Dynamic Tuning** | Real-time hyperparameter optimization |
+| 📈 **AutoML Pipeline** | End-to-end automated ML workflow |
+
+**🛠️ Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Gen AI](https://img.shields.io/badge/Gen_AI-blueviolet?style=flat-square)
+![AutoML](https://img.shields.io/badge/AutoML-FF6F00?style=flat-square)
+
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/📚-RAG_Assistant-3B82F6?style=for-the-badge" /><br>
-<sub><b>Knowledge Assistant</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/⚡-Code_Gen-FF6B6B?style=for-the-badge" /><br>
-<sub><b>Auto Code Pipeline</b></sub>
+<td width="40%" align="center">
+
+<a href="https://github.com/Rohit1x52/AI_That_Invents_AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohit1x52&repo=AI_That_Invents_AI&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=3B82F6" />
+</a>
+
+<br>
+
+[![View Code](https://img.shields.io/badge/👁️_View_Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohit1x52/AI_That_Invents_AI)
+
 </td>
 </tr>
 </table>
 
-<img src="https://img.shields.io/badge/🔮_Stay_Tuned_for_More_Awesome_Projects!-1a1a2e?style=for-the-badge" />
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<!-- Project 2: Orbital Witness -->
+<div align="center">
+
+<a href="https://github.com/Rohit1x52/ORBITAL_WITNESS">
+<img src="https://svg-banners.vercel.app/api?type=luminance&text1=🛰️%20Orbital%20Witness&width=800&height=100" />
+</a>
+
+</div>
+
+<table>
+<tr>
+<td width="40%" align="center">
+
+<a href="https://github.com/Rohit1x52/ORBITAL_WITNESS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohit1x52&repo=ORBITAL_WITNESS&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=3B82F6" />
+</a>
+
+<br>
+
+[![View Code](https://img.shields.io/badge/👁️_View_Repository-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohit1x52/ORBITAL_WITNESS)
+
+</td>
+<td width="60%">
+
+### Geospatial Intelligence Platform
+
+<img src="https://img.shields.io/badge/🔥_Status-Active_Development-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⭐_Type-Computer_Vision-00D9FF?style=for-the-badge" />
+
+> *"Turning satellite imagery into actionable intelligence"*
+
+**🎯 Key Features:**
+| Feature | Description |
+|---------|-------------|
+| 🌍 **Object Detection** | Real-time detection from satellite feeds |
+| 🗺️ **Terrain Analysis** | Advanced terrain classification algorithms |
+| 📊 **Change Detection** | Temporal analysis for monitoring changes |
+| 🔬 **Multi-spectral** | Processing across multiple spectral bands |
+
+**🛠️ Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<!-- Project 3: Breast Cancer Classifier -->
+<div align="center">
+
+<a href="https://github.com/Rohit1x52/Breast-Cancer-Detection-using-DenseNet-121">
+<img src="https://svg-banners.vercel.app/api?type=luminance&text1=🩺%20Medical%20AI%20Classifier&width=800&height=100" />
+</a>
+
+</div>
+
+<table>
+<tr>
+<td width="60%">
+
+### High-Precision Cancer Detection System
+
+<img src="https://img.shields.io/badge/✅_Status-Completed-00E676?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎯_Accuracy-98%25+-00E676?style=for-the-badge" />
+
+> *"Saving lives with AI-powered medical diagnosis"*
+
+**🎯 Key Features:**
+| Feature | Description |
+|---------|-------------|
+| 🎯 **98%+ Accuracy** | State-of-the-art mammogram classification |
+| 🔄 **Transfer Learning** | Pre-trained DenseNet-121 fine-tuning |
+| 🏥 **Medical Pipeline** | Specialized preprocessing for medical images |
+| 🔍 **Grad-CAM** | Explainable AI with visual interpretability |
+
+**🛠️ Tech Stack:**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![DenseNet](https://img.shields.io/badge/DenseNet_121-FF6F00?style=flat-square)
+![Medical AI](https://img.shields.io/badge/Medical_AI-D00000?style=flat-square)
+![Grad-CAM](https://img.shields.io/badge/Grad_CAM-00C853?style=flat-square)
+
+</td>
+<td width="40%" align="center">
+
+<a href="https://github.com/Rohit1x52/Breast-Cancer-Detection-using-DenseNet-121">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohit1x52&repo=Breast-Cancer-Detection-using-DenseNet-121&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=3B82F6" />
+</a>
+
+<br>
+
+[![View Code](https://img.shields.io/badge/👁️_View_Repository-00E676?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohit1x52/Breast-Cancer-Detection-using-DenseNet-121)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Coming Soon Section -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/🚀_COMING_SOON-0D1117?style=for-the-badge" />
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/🤖-blueviolet?style=for-the-badge" width="60" />
+
+**Multi-Agent System**
+
+<sub>Orchestrating AI agents for complex tasks</sub>
+
+<img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=flat-square" />
+<img src="https://img.shields.io/badge/In_Progress-FFA116?style=flat-square" />
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/📚-3B82F6?style=for-the-badge" width="60" />
+
+**RAG Knowledge Assistant**
+
+<sub>Intelligent document Q&A system</sub>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/Planning-6B7280?style=flat-square" />
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/⚡-FF6B6B?style=for-the-badge" width="60" />
+
+**Auto Code Pipeline**
+
+<sub>AI-powered code generation system</sub>
+
+<img src="https://img.shields.io/badge/Gen_AI-blueviolet?style=flat-square" />
+<img src="https://img.shields.io/badge/Planning-6B7280?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/🔮_Watch_This_Space_For_More_Innovation!-1a1a2e?style=for-the-badge" />
 
 </div>
 
